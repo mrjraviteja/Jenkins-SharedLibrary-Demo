@@ -1,4 +1,4 @@
-def getDatabaseConfig(String domain) {
+def call(String domain) {
     def dbUrl
     def dbUser
     def dbPassword
